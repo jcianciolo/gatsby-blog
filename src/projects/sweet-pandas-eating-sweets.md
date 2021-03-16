@@ -2,6 +2,7 @@
 title: Sweet Pandas Eating Sweets
 stack: HTML, CSS
 slug: sweet-pandas-eating-sweets
+date: 2021-03-11
 ---
 
 Pandas are really sweet.

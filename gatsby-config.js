@@ -26,6 +26,8 @@ module.exports = {
   siteMetadata: {
     title: 'John Cianciolo',
     description: 'Web developer portfolio',
-    copyright: 'Copyright March 2021 John Cianciolo'
+    copyright: 'Copyright March 2021 John Cianciolo',
+    contact: 'myemail@gmail.com',
+    venmo: '@friendship',
   }
 }
