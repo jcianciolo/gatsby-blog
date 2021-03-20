@@ -4,7 +4,7 @@ stack: HTML, CSS
 slug: sweet-pandas-eating-sweets
 date: 2021-03-11
 thumb: ../images/thumbs/wafflecolor_p.png
-featuredImg: ../images/featued/wafflecolor_p_banner.png
+featuredImg: ../images/featured/wafflecolor_p_banner.png
 ---
 
 Pandas are really sweet.
