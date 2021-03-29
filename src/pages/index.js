@@ -10,7 +10,7 @@ export default function Home({ data }) {
     <Layout>
       <section className={styles.header}>
         <div>
-          <h2>Hello visitors!</h2>
+          <h2>Hello visitors!?</h2>
           <h3>Created by John Cianciolo</h3>
           <p>March 2021</p>
           <Link className={styles.btn} to="/projects">My Projects</Link>
