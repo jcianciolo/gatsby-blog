@@ -8,4 +8,4 @@ featuredImg: ../images/featured/finance.jpeg
 ---
 
 https://john-cianciolo-expensify-app.herokuapp.com/
-<h1>test</h1>
+<h1>Karate Promotional Application</h1>
