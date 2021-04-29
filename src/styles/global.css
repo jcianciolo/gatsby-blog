@@ -9,8 +9,10 @@ html, body {
     min-height: 100%;
 }
 
+/* thanks to cssgradient.io */
 body {
-    background: purple;
+    background: rgb(180,6,131);
+    background: linear-gradient(90deg, rgba(180,6,131,1) 0%, rgba(48,22,82,0.9620958201892744) 100%);
 }
 
 p {
