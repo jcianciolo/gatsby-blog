@@ -1,6 +1,6 @@
 ---
-title: Pandas and Bananas
-stack: HTML, CSS
+title: Personal Portfolio
+stack: React, Gatsby, Javascript, GraphQL
 slug: pandas-and-bananas
 date: 2021-03-11
 thumb: ../images/thumbs/banana.png

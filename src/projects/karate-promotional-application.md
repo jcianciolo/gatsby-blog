@@ -7,5 +7,5 @@ thumb: ../images/thumbs/finance.jpeg
 featuredImg: ../images/featured/finance.jpeg
 ---
 
-https://john-cianciolo-expensify-app.herokuapp.com/
-<h1>Karate Promotional Application</h1>
+https://github.com/jcianciolo/promotional
+<h1>A custom-built app created to match client specifications. This application replaces countless hours of manual paperwork. Allows for the creation and organization of karate tournaments, and one-click creation of custom PDF certificates for belt promotions. </h1>
