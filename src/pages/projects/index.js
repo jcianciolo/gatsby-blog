@@ -19,7 +19,7 @@ const Projects = ({ data }) => {
                         return (
                             <Link to ={"/projects/" + project.frontmatter.slug} key={project.id}>
                                 <div>
-                                    <GatsbyImage image={project.frontmatter.thumb.childImageSharp.gatsbyImageData} />
+                                    <GatsbyImage className={styles.image} image={project.frontmatter.thumb.childImageSharp.gatsbyImageData} />
                                     <h3>{project.frontmatter.title}</h3>
                                     <p>{project.frontmatter.stack}</p>
                                 </div>
