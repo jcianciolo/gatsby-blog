@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import '../styles/global.css'
+import "@fontsource/open-sans"
 
 const Layout = ({ children }) => {
     return (
