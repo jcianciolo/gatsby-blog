@@ -23,3 +23,7 @@
     margin-top: 20px;
     font-weight: 500;
 }
+
+.img:hover {
+    opacity: .5;
+}

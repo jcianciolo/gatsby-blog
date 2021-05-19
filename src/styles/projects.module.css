@@ -29,3 +29,7 @@
     color: #ccc;
     margin-top: 4px;
 }
+
+.image:hover {
+    opacity: 0.6;
+}
