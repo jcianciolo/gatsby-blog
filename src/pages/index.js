@@ -10,9 +10,8 @@ export default function Home({ data }) {
     <Layout>
       <section className={styles.header}>
         <div>
-          <h2>Welcome!</h2>
-          <h3>Created by John Cianciolo</h3>
-          <p>March 2021</p>
+          <h2>Welcome to my portfolio!</h2>
+          <h3>I'm a full-stack web developer.</h3>
           <Link className={styles.btn} to="/projects">My Projects</Link>
         </div>
         <GatsbyImage image={data.file.childImageSharp.gatsbyImageData} />
