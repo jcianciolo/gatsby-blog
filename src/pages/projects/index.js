@@ -17,6 +17,7 @@ const Projects = ({ data }) => {
                 <div className={styles.projects}>
                     {projects.map(project => {
                         return (
+                          <div className={styles.project}>
                             <Link to ={"/projects/" + project.frontmatter.slug} key={project.id}>
                                 <div>
                                     <GatsbyImage className={styles.image} image={project.frontmatter.thumb.childImageSharp.gatsbyImageData} />
@@ -24,6 +25,8 @@ const Projects = ({ data }) => {
                                     <p>{project.frontmatter.stack}</p>
                                 </div>
                             </Link>
+                          </div>
+
                         )
                     })}
                 </div>
