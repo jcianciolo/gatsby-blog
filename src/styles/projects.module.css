@@ -19,6 +19,14 @@
     margin: 80px 20px;
 }
 
+.project {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px 20px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(52,58,126,1) 35%, rgba(0,212,255,1) 100%);
+}
+
 .projects h3 {
     text-align: center;
     margin: 20px auto 0;
@@ -30,6 +38,6 @@
     margin-top: 4px;
 }
 
-.image:hover {
+.project:hover {
     opacity: 0.6;
 }
