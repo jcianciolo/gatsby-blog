@@ -21,10 +21,13 @@
 
 .project {
     border: 2px solid black;
-    border-radius: 10px;
+    border-radius: 6px;
     padding: 20px 20px;
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(52,58,126,1) 35%, rgba(0,212,255,1) 100%);
+    background: #111112;
+}
+
+.image {
+    border-radius: 6px;
 }
 
 .projects h3 {

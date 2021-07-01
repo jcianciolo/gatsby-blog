@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
-    color: white;
+    color: #c5c8c9;
 }
 
 html, body {
@@ -11,8 +11,7 @@ html, body {
 
 /* thanks to cssgradient.io */
 body {
-    background: rgb(180,6,131);
-    background: linear-gradient(90deg, rgba(180,6,131,1) 0%, rgba(48,22,82,0.9620958201892744) 100%);
+    background: #252729;
     font-family: "Open Sans";
 }
 
